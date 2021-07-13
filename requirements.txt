@@ -1,4 +1,4 @@
-fastai2==0.0.30
+fastai==0.0.30
 ipywidgets
 packaging
 Pillow
